@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-20210822
+20210824
 end
