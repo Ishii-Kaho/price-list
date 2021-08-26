@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-20210824
+root to: 'homes#top'
 end
